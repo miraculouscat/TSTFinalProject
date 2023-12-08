@@ -1,0 +1,22 @@
+{
+    "confirmations": [
+        {
+            "id": 1,
+            "service_id": 101,
+            "user_id": 1,
+            "confirmed": true
+        },
+        {
+            "id": 2,
+            "service_id": 102,
+            "user_id": 2,
+            "confirmed": false
+        },
+        {
+            "id": 3,
+            "service_id": 103,
+            "user_id": 3,
+            "confirmed": true
+        }
+    ]
+}

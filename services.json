@@ -1,0 +1,23 @@
+{
+	"services": [
+	  {
+		"id": 1,
+		"name": "Daily",
+		"description": "Mengerjakan daily quest",
+		"price": 4000
+	  },
+	  {
+		"id": 2,
+		"name": "Resin",
+		"description": "Mengerjakan quest yang memerlukan resin",
+		"price": 4000
+	  },
+	  {
+		"id": 3,
+		"name": "Dairesin",
+		"description": "Mengerjakan daily quest dan resin",
+		"price": 7000
+	  }
+	]
+  }
+  
